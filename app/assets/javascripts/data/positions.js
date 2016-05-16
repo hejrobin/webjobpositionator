@@ -16,7 +16,11 @@ const positions = [
   'Go',
   'Python',
   'SQL',
-  'noSQL'
+  'noSQL',
+  'Data Warehouse',
+  'System',
+  'Support',
+  'Infrastructure'
 ];
 
 export default positions;
