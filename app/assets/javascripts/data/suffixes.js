@@ -15,7 +15,11 @@ const suffixes = [
   'Intern',
   'Lead',
   'Manager',
-  'Oracle'
+  'Oracle',
+  'Magician',
+  'Facilitator',
+  'Builder',
+  'Architect'
 ];
 
 export default suffixes;

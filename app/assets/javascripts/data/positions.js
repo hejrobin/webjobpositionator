@@ -20,7 +20,16 @@ const positions = [
   'Data Warehouse',
   'System',
   'Support',
-  'Infrastructure'
+  'Infrastructure',
+  'Asset Tools',
+  'API',
+  'Java',
+  'Swift',
+  'Objective-C',
+  'Scala',
+  'ClojureScript',
+  'Material Design',
+  'Visual'
 ];
 
 export default positions;
