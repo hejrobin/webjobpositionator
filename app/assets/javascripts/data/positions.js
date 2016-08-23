@@ -29,7 +29,9 @@ const positions = [
   'Scala',
   'ClojureScript',
   'Material Design',
-  'Visual'
+  'Full Stack',
+  'SASS',
+  'Cobol',
 ];
 
 export default positions;

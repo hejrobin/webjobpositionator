@@ -132,7 +132,7 @@ exports.default = Positionator;
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
-var positions = ['Quality Assurance', 'UIUX', 'Frontend', 'Backend', 'Node.js', 'PHP', 'WordPress', 'JavaScript', '.NET', 'C/C++', 'Linux', 'Ruby', 'CoffeeScript', 'TypeScript', 'Go', 'Python', 'SQL', 'noSQL', 'Data Warehouse', 'System', 'Support', 'Infrastructure', 'Asset Tools', 'API', 'Java', 'Swift', 'Objective-C', 'Scala', 'ClojureScript', 'Material Design', 'Visual'];
+var positions = ['Quality Assurance', 'UIUX', 'Frontend', 'Backend', 'Node.js', 'PHP', 'WordPress', 'JavaScript', '.NET', 'C/C++', 'Linux', 'Ruby', 'CoffeeScript', 'TypeScript', 'Go', 'Python', 'SQL', 'noSQL', 'Data Warehouse', 'System', 'Support', 'Infrastructure', 'Asset Tools', 'API', 'Java', 'Swift', 'Objective-C', 'Scala', 'ClojureScript', 'Material Design', 'Full Stack', 'SASS', 'Cobol'];
 
 exports.default = positions;
 
@@ -142,7 +142,7 @@ exports.default = positions;
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
-var suffixes = ['Ninja', 'Guru', 'Warrior', 'Developer', 'Star', 'Rockstar', 'Artist', 'Evangelist', 'King', 'Unicorn', 'Samurai', 'Analyst', 'Engineer', 'Intern', 'Lead', 'Manager', 'Oracle', 'Magician', 'Facilitator', 'Builder', 'Architect'];
+var suffixes = ['Ninja', 'Guru', 'Warrior', 'Developer', 'Star', 'Rockstar', 'Artist', 'Evangelist', 'King', 'Unicorn', 'Samurai', 'Analyst', 'Engineer', 'Intern', 'Lead', 'Manager', 'Oracle', 'Magician', 'Facilitator', 'Builder', 'Architect', 'Hacker', 'Illustrator'];
 
 exports.default = suffixes;
 
