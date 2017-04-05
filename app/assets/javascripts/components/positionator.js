@@ -1,4 +1,5 @@
 import React, {Component} from 'react';
+import prefixes from '../data/prefixes';
 import suffixes from '../data/suffixes';
 import positions from '../data/positions';
 
@@ -22,10 +23,11 @@ export default class Positionator extends Component {
   }
 
   generate() {
+    let prefix = this.pick(prefixes);
     let suffix = this.pick(suffixes);
     let position = this.pick(positions);
     this.setState({
-      position: `${position} ${suffix}`
+      position: `${prefix} ${position} ${suffix}`
     });
   }
 

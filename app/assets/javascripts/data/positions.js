@@ -32,6 +32,9 @@ const positions = [
   'Full Stack',
   'SASS',
   'Cobol',
+  'SaaS',
+  'Cloud Computing',
+  'TypeScript',
 ];
 
 export default positions;
